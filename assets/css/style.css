@@ -66,6 +66,10 @@ h2 {
     padding: 7px 25px;
 }
 
+#events .custom-button-filled {
+    border-radius: 0;
+}
+
 /* Navbar */
 #navbar {
     background-color: var(--primary-color);
